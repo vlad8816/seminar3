@@ -21,7 +21,7 @@ git checkout master - возвращает на основную ветку
 git add <имя файла > - Добавление файла в репозиторий для отслеживания
 
 git commit - создание коммита 
-git commit -m "message"
+git commit -m "message" - создание коммита с комментарием 
 git commit -am "message"
 
 git diff
