@@ -9,8 +9,9 @@ Git - это программа...
     git init
 
 
-git log --oneline - делает все логи в одну строку
-git checkout master - возвращает на основную ветку
+**git log --oneline** - делает все логи в одну строку
+
+**git checkout master** - возвращает на основную ветку
 
 ## Проверка актуального состояния репозитория
 
@@ -35,7 +36,7 @@ git checkout master - возвращает на основную ветку
 
 **git checkout <hash>**
 
-**git log**
+**git log** - команда для просмотра истории репозитория Git
 
 **git log --oneline**
 
