@@ -45,6 +45,6 @@ Git - это программа...
 
 **git log --oneline** - делает все логи в одну строку
 
-**got log --all**
+**got log --all**  - показывает все коммиты
 
-**git log --all --oneline**
+**git log --all --oneline** - показывает все коммиты в одну строку
