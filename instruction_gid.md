@@ -76,6 +76,8 @@ git branch <branch-name>
 
 git branch -d <branch-name>
 
+git branch -D <branch_name> - принудительное удаление ветки без слияния
+
 git checkout <branch_name>
 
 git log --graph
