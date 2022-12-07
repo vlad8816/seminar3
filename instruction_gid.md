@@ -67,3 +67,22 @@ Git - это программа...
 ### Переключение между ветками
 
 Чтобы переключиться на другую ветку
+
+Описание команд:
+
+git branch
+
+git branch <branch-name>
+
+git branch -d <branch-name>
+
+git checkout <branch_name>
+
+git log --graph
+
+git log --all --oneline --graph
+
+git merge <branch_name>
+
+Конфликт слияния описать, как происходи и как разрешать
+
