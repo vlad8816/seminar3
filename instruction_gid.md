@@ -18,9 +18,9 @@ git checkout master - возвращает на основную ветку
 
     git status
 
-git add <имя файла >
+git add <имя файла > - Добавление файла в репозиторий для отслеживания
 
-git commit 
+git commit - создание коммита 
 git commit -m "message"
 git commit -am "message"
 
