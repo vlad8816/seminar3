@@ -105,7 +105,7 @@ Git - это программа...
     git checkout <branch_name>
      где <branch_name> - название новой ветки 
 
-Описание команд:
+Удаление ветки
 
     git branch -d <branch-name>
 
