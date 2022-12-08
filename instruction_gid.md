@@ -109,7 +109,9 @@ Git - это программа...
 
     git branch -d <branch-name>
 
-    git branch -D <branch_name> - принудительное удаление ветки без слияния
+   Принудительное удаление ветки без слияния
+   
+    git branch -D <branch_name>
 
     git log --graph
 
