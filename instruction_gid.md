@@ -113,8 +113,11 @@ Git - это программа...
    
     git branch -D <branch_name>
 
+   Вывести графическое изображение в терминале слияния веток
+   
     git log --graph
 
+    
     git log --all --oneline --graph
 
     git merge <branch_name>
